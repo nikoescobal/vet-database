@@ -9,8 +9,11 @@
 
 
 ## Screenshot
-![Homepage](https://user-images.githubusercontent.com/62937819/144334065-becdcd16-1732-43c7-9427-7fd7ef6f4693.png)
-![Characters](https://user-images.githubusercontent.com/62937819/144333952-6e9efafd-593b-4e54-9749-eb229c6cb92b.png)
+### BEFORE INDEX
+![email](./assets/email-before.png)
+### AFTER INDEX
+![email](./assets/email-after.png)
+
 
 ## Getting Started
 **To get a local copy up and running follow these simple example steps.**
@@ -39,8 +42,8 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/nikoescobal/members-only/issues).
 
+Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
@@ -48,10 +51,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
-- [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs) for the design reference used in the project 
 
 ## 📝 MIT License
 
 This project makes use of the MIT license.
 
-Just clone and then run npm install to make it work.
